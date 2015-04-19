@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FBLogin</string>
+	<string name="facebook_app_id">EDIT_THIS</string>
+</resources>

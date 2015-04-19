@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/simplemo/AndroidStudioProjects/FBLogin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/simplemo/AndroidStudioProjects/FBLogin/app/build/intermediates/pre-dexed/debug/classes-ff8c5011650a80698b7aba84d70c30a32daf4e84.jar" />
+    </item>
+    <item
+        jar="/home/simplemo/AndroidStudioProjects/FBLogin/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/simplemo/AndroidStudioProjects/FBLogin/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-6fcb479687c5f4e239f60d2e2408f4294350b53f.jar" />
+    </item>
+    <item
+        jar="/home/simplemo/AndroidStudioProjects/FBLogin/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/simplemo/AndroidStudioProjects/FBLogin/app/build/intermediates/pre-dexed/debug/classes-83dd6a6ae5a4c0eb297f927bb31b005060b43855.jar" />
+    </item>
+    <item
+        jar="/home/simplemo/AndroidStudioProjects/FBLogin/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="/home/simplemo/AndroidStudioProjects/FBLogin/app/build/intermediates/pre-dexed/debug/classes-b400a566c72657728c7c2dc24f7b6abe407e2ac1.jar" />
+    </item>
+    <item
+        jar="/home/simplemo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/simplemo/AndroidStudioProjects/FBLogin/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-04621492398f865cb4f1f44c8766d6f52d2e38e9.jar" />
+    </item>
+    <item
+        jar="/home/simplemo/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/home/simplemo/AndroidStudioProjects/FBLogin/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-b450ea07f7f77926aa0f4d7fb222acf1824a8658.jar" />
+    </item>
+
+</items>
